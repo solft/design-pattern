@@ -4,3 +4,4 @@
 2. [Singleton Pattern](src/singleton/README.md)
 3. [Adapter Pattern](src/adapter/README.md)
 4. [Template Method Pattern](src/template_method/README.md)
+5. [Factory Method Pattern]
