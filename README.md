@@ -6,3 +6,4 @@
 4. [Template Method Pattern](src/template_method)
 5. [Factory Method Pattern](src/factory_method)
 6. [State Pattern](src/factory_method)
+7. [Command Pattern](src/command)
