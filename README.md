@@ -7,3 +7,4 @@
 5. [Factory Method Pattern](src/factory_method)
 6. [State Pattern](src/factory_method)
 7. [Command Pattern](src/command)
+8. [Observer Pattern](src/observer)
