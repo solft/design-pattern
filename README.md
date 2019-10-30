@@ -9,3 +9,4 @@
 7. [Command Pattern](src/command)
 8. [Observer Pattern](src/observer)
 9. [Decorator Pattern](src/decorator)
+10. [Abstract Factory Pattern](src/abstract_factory)
